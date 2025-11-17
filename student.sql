@@ -1,4 +1,3 @@
-use Covid19;
 
 CREATE TABLE StudentDetail (
     StudentDetailID int PRIMARY KEY,
